@@ -1,5 +1,5 @@
 {
-  "name": "karma",
+  "name": "karma-qunit",
   "version": "0.0.1",
   "dependencies": {
     "karma": "~0.13.18",
