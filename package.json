@@ -1,0 +1,14 @@
+{
+  "name": "karma",
+  "version": "0.0.1",
+  "dependencies": {
+    "karma": "~0.13.18",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-fixture": "^0.2.6",
+    "karma-qunit": "^1.0.0",
+    "qunit": "^0.9.1",
+    "qunitjs": "^1.23.1",
+    "qunit-fixture": "0.0.3",
+    "karma-html2js-preprocessor": "^1.0.0"
+  }
+}
